@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" fill="none">
+  <!-- Symbol (Icon) -->
+  <g transform="translate(10, 0)">
+    <path d="M 18 68 H 58" stroke="#FF7A00" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 6 88 H 68" stroke="#FF7A00" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 24 108 H 58" stroke="#FF7A00" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="110" cy="88" r="42" stroke="#7C67FE" stroke-width="8" stroke-linecap="round" fill="none"/>
+    <path d="M 110 88 L 86 73" stroke="#7C67FE" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 110 88 V 56" stroke="#7C67FE" stroke-width="8" stroke-linecap="round"/>
+    <path d="M 118 82 C 118 48 180 48 180 82 C 180 84 118 84 118 82 Z" fill="#FF7A00"/>
+    <path d="M 142 61 L 145 58 M 154 63 L 157 60 M 153 70 L 156 68" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M 119 90 Q 135 83 150 92 T 182 89" stroke="#7C67FE" stroke-width="6.5" stroke-linecap="round" fill="none"/>
+    <path d="M 123 99 Q 138 93 154 101 T 180 98" stroke="#7C67FE" stroke-width="6" stroke-linecap="round" fill="none"/>
+    <path d="M 123 108 C 123 106 177 106 177 108 C 177 124 123 124 123 108 Z" fill="#FF7A00"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="215" y="105" font-family="system-ui, -apple-system, sans-serif" font-size="62" font-weight="800" fill="#8570FF" letter-spacing="-1.5">After</text>
+  <text x="360" y="105" font-family="system-ui, -apple-system, sans-serif" font-size="62" font-weight="900" fill="#FF7A00" letter-spacing="-1.5">Food</text>
+</svg>

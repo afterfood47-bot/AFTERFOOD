@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" fill="none">
+  <!-- Speed lines (orange) -->
+  <path d="M 18 78 H 58" stroke="#FF7A00" stroke-width="9" stroke-linecap="round"/>
+  <path d="M 6 98 H 68" stroke="#FF7A00" stroke-width="9" stroke-linecap="round"/>
+  <path d="M 24 118 H 58" stroke="#FF7A00" stroke-width="9" stroke-linecap="round"/>
+  
+  <!-- Clock (purple) -->
+  <circle cx="110" cy="98" r="46" stroke="#7C67FE" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <path d="M 110 98 L 84 82" stroke="#7C67FE" stroke-width="9" stroke-linecap="round"/>
+  <path d="M 110 98 V 62" stroke="#7C67FE" stroke-width="9" stroke-linecap="round"/>
+
+  <!-- Burger (orange & purple) -->
+  <path d="M 118 92 C 118 54 188 54 188 92 C 188 94 118 94 118 92 Z" fill="#FF7A00"/>
+  <!-- Seeds -->
+  <path d="M 144 68 L 148 64 M 158 70 L 162 67 M 156 78 L 160 76" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Wavy Patty filling -->
+  <path d="M 119 101 Q 138 93 154 103 T 190 100" stroke="#7C67FE" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <path d="M 124 111 Q 140 104 158 113 T 188 110" stroke="#7C67FE" stroke-width="6.5" stroke-linecap="round" fill="none"/>
+  <!-- Bottom bun -->
+  <path d="M 124 121 C 124 119 184 119 184 121 C 184 140 124 140 124 121 Z" fill="#FF7A00"/>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix AfterFood 3.0 - Delivery 24/7",
+  "description": "Tu solución completa de delivery 24/7 de día y de noche con comida, bebidas, farmacia y tracking en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
